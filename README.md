@@ -30,7 +30,7 @@ My goal is to design scalable, user-focused solutions by combining backend logic
 ##  Featured Projects
 - [**CSV Inspector Pro**](https://github.com/sudenall/csv-inspector-pro) — Data profiling & outlier detection with interactive HTML reports  
 - **MMRecDjango** — Django + Dash platform for custom recommendation system visualization *(Private for now)*  
-- **FastAPI Sentiment Analyzer** — Real-time sentiment analysis API with Python & FastAPI *
+- **FastAPI Sentiment Analyzer** — Real-time sentiment analysis API with Python & FastAPI 
 
 ---
 
