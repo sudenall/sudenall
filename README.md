@@ -9,7 +9,7 @@
 
 ##  About Me
 
-I’m a Computer Engineering student focused on building **practical machine learning systems** and understanding how models behave in real-world scenarios.
+Computer Engineering student focused on building **practical machine learning systems** and understanding how models behave in real-world scenarios.
 
 Recently, my work has been centered around:
 - model evaluation
