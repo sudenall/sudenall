@@ -18,7 +18,7 @@ Recently, my work has been centered around:
 - domain adaptation
 - NLP experiments
 
-I care about not only building models, but also:
+Care about not only building models, but also:
 - understanding their limitations  
 - evaluating them properly  
 - and making their behavior interpretable  
